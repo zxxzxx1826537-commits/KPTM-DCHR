@@ -83,7 +83,31 @@ study = run_quick_automl(n_trials=50)
 3. 减少交叉验证折数
 4. 减少蛋白质数据量
 
-提供所有所需文件，复现请修改对应的路径
+
+
+
+
+
+
+## 数据获取
+有些数据文件太大，发布在Release中。
+所有数据下载到本地后，根据本地路径修改代码。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 环境支持：
 # packages in environment at D:\anaconda\envs\dgl_new:
